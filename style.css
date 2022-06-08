@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&family=Roboto:wght@300&display=swap");
+
+body {
+  background-color: #071252;
+  color: aliceblue;
+}
+.navbar {
+  background-color: #071252;
+}
+
+.nav-link {
+  color: #c0c0c1;
+}
+.first {
+  background-color: #061048;
+  padding-top: 3%;
+  padding-bottom: 5%;
+}
+
+.first p {
+  color: #c0c0c1;
+}
+
+.img1 {
+  width: 380px;
+}
+
+.btn {
+  border-radius: 0.6rem;
+}
+
+.second {
+  /* background-color: #e4e5f1; */
+  color: black;
+  padding-top: 3%;
+  padding-bottom: 2%;
+}
+.second-content {
+  background-color: #050c37;
+  color: white;
+  border-radius: 1rem;
+}
+
+.dd {
+  padding: 5%;
+}
+
+.fa-globe {
+  color: #dbeecd;
+}
+
+.fa-virus-covid {
+  color: #aad7c3;
+}
+
+.fa-skull {
+  color: #eebdbf;
+}
+
+.third {
+  border-radius: 1.2rem;
+  border: none;
+  width: 100px;
+}
+
+.fourth {
+  background-color: #fff;
+  color: black;
+  font-family: "Poppins", sans-serif;
+}
+
+.heading {
+  color: #0d0d0d;
+  font-weight: bold;
+}
+
+.second-2 {
+  background-color: #030303;
+  color: black;
+  padding-top: 3%;
+  padding-bottom: 5%;
+}
+
+.table {
+  border-radius: 1rem;
+}
+
+.footer {
+  background-color: #020724;
+  color: #e4e5f1;
+}
+
+.footer .content {
+  color: #c0c0c1;
+}
+
+.icon {
+  color: #f0f0f1;
+}
+
+a:link {
+  text-decoration: none;
+  color: #c0c0c1;
+}
+a:hover {
+  color: #2e3de9;
+}
+
+@media only screen and (max-width: 425px) {
+  .img1 {
+    height: 300px;
+    align-items: left;
+  }
+}
