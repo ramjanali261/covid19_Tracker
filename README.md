@@ -23,10 +23,6 @@ Azure static Web apps, Azure Bot Service
 
 ![My Website](images/webpage.png)
 
-### Deployment using Web App screenshot:
-
-![My azure](images/azure.png)
-
 ### Github build succesful screenshot:
 
 ![My github](images/github.png)
